@@ -15,3 +15,4 @@ python api_server.py        # Em outro terminal
 ```
 
 Abra `index.html` no navegador.
+https://monitor-de-ativos.onrender.com
