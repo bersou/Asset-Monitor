@@ -1,6 +1,6 @@
-# Simulador Tractian (Fiel)
+# Monitor de Ativos (Preditivo)
 
-Este projeto simula o funcionamento de um sensor da Tractian, com coleta, análise e visualização de dados de vibração e temperatura.
+Este projeto simula o funcionamento de um sensor de ativos preditivo, com coleta, análise e visualização de dados de vibração e temperatura.
 
 ## Componentes:
 - `sensor_simulator.py`: Gera dados simulados.
