@@ -1,4 +1,4 @@
-# Monitor de Ativos (Preditivo)
+# Asset Monitor (Preditivo)
 
 ## 🚀 Demonstração Ao Vivo
 
